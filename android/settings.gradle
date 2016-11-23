@@ -1,0 +1,3 @@
+rootProject.name = 'apollo_client'
+
+include ':app'
